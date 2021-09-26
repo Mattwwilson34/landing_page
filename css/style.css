@@ -183,7 +183,7 @@ header,
 }
 
 .action-text {
-    color: #e5e7eb;
+    color: #f9faf8;
 }
 
 .action-text h6 {
@@ -198,10 +198,10 @@ header,
 
 .action-button button {
     background-color: #3882f6;
-    color: #e5e7eb;
+    color: #f9faf8;
     padding: 5px 40px;
     border-style: none;
-    border: 2px solid #e5e7eb;
+    border: 2px solid #f9faf8;
     border-radius: 5px;
 }
 
